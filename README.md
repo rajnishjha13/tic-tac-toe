@@ -6,11 +6,11 @@ A modern, responsive Tic-Tac-Toe game with multiple game modes, difficulty level
 
 ### Game Modes
 - 👥 Player vs Player (PvP)
-- 🤖 Player vs Computer (PvC)
+- 🤖 Player vs AI (PvA)
 
 ### Difficulty Levels
-- 🟢 Easy Mode: Random computer moves
-- 🔴 Hard Mode: Strategic computer moves (blocks player's potential wins)
+- 🟢 Easy Mode: Random AI moves
+- 🔴 Hard Mode: Strategic AI moves (blocks player's potential wins)
 
 ### Themes
 - 🌞 Light Mode
@@ -21,12 +21,12 @@ A modern, responsive Tic-Tac-Toe game with multiple game modes, difficulty level
 
 1. Choose Game Mode:
    - Click "Player vs Player" to play against a friend
-   - Click "Player vs Computer" to play against AI
+   - Click "Player vs AI" to play against AI
 
 2. Difficulty Selection:
    - Toggle between Easy and Hard mode
-   - Easy: Computer makes random moves
-   - Hard: Computer tries to block your winning strategies
+   - Easy: AI makes random moves
+   - Hard: AI tries to block your winning strategies
 
 3. Theme Toggle:
    - Switch between Light and Dark mode
